@@ -2,5 +2,5 @@
 Submitted by: Baruc, Jana Enigma S.
 
 ### Screenshots
-![compilation](/compile.png)
-![output](/output.png)
+![compilation](/src/compile.png)
+![output](/src/output.png)
